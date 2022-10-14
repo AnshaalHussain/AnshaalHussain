@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anshaal</h1>
-<h3 align="left">A passionate software developer from Toronto</h3>
-<h3 align="left">Student attending University of Toronto</h3>
+<h3 align="left">A passionate software developer and student attending University of Toronto</h3>
 
 - 🔭 I’m currently working on [a video game tracker that calculates the spawns for seasonal bosses](https://github.com/AnshaalHussain/DST-season-calculator)
 
