@@ -1,12 +1,8 @@
 <h1 align="center">Hi 👋, I'm Anshaal</h1>
 <h3 align="center">A passionate software developer from Toronto</h3>
 
-<div align="center">
+
   [![Anshaals's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnshaalHussain&hide=stars,issues&show_icons=true&theme=aura_dark)](https://github.com/anuraghazra/github-readme-stats)
-</div>
-
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anshaalhussain" alt="anshaalhussain" /></a> </p>
 
 - 🔭 I’m currently working on [a video game tracker that calculates the spawns for seasonal bosses](https://github.com/AnshaalHussain/DST-season-calculator)
 
@@ -15,6 +11,8 @@
 - 📫 How to reach me **anshaalhussain@gmail.com**
 
 - ⚡ Fun fact **I love to cook! My signature dish is cheeseburger mac with broccoli.**
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anshaalhussain" alt="anshaalhussain" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
