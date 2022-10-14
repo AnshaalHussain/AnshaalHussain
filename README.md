@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Anshaal</h1>
 <h3 align="center">A passionate software developer from Toronto</h3>
 
+[![Anshaals's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnshaalHussain)](https://github.com/anuraghazra/github-readme-stats)
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anshaalhussain" alt="anshaalhussain" /></a> </p>
 
 - 🔭 I’m currently working on [a video game tracker that calculates the spawns for seasonal bosses](https://github.com/AnshaalHussain/DST-season-calculator)
