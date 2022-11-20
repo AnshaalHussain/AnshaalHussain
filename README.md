@@ -5,7 +5,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=AnshaalHussain&label=Profile%20views&color=0e75b6&style=flat" alt="anshaalhussain" /> </p>
 
 ## <img src="https://media.giphy.com/media/ENwrXnjPz8LyU/giphy.gif" width="90">Profile: 
-- I’m currently working on [a video game tracker that calculates the spawns for seasonal bosses](https://github.com/AnshaalHussain/DST-season-calculator)
+- I’m currently working on [skincare screener that let's you easily filter products that fit your preferences](https://github.com/AnshaalHussain/skincare-screener)
 
 - Former Software Engineer Intern at [Augmentr](https://www.linkedin.com/company/augmentr/about/)👩🏻‍💻
 
