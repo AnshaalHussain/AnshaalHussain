@@ -44,10 +44,10 @@
 
 ## <img src="https://media.giphy.com/media/dAuGq9UkcumNj1KCHe/giphy.gif" width="80">Stats:
 
-[![Anshaals's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnshaalHussain&hide=stars,issues&show_icons=true&theme=aura_dark&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Anshaals's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnshaalHussain&hide=stars,issues&show_icons=true&theme=aura_dark&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anshaalhussain" alt="anshaalhussain" /></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anshaalhussain&show_icons=true&locale=en&layout=compact" alt="anshaalhussain" /></p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anshaalhussain" alt="anshaalhussain" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anshaalhussain" alt="anshaalhussain" /></a> </p> -->
