@@ -4,8 +4,10 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=AnshaalHussain&label=Profile%20views&color=0e75b6&style=flat" alt="anshaalhussain" /> </p>
 
-## <img src="https://media.giphy.com/media/ENwrXnjPz8LyU/giphy.gif" width="90">Profile: 
-- I’m currently working on a [skincare screener that lets you easily filter products that fit your preferences](https://github.com/AnshaalHussain/skincare-screener)
+<!-- ## <img src="https://media.giphy.com/media/ENwrXnjPz8LyU/giphy.gif" width="90">  -->
+
+## <img src="https://media.giphy.com/media/k5KWbLCtiUkRNK5bqN/giphy.gif" width="80"> Profile: 
+- I’m currently working on a [skincare screener](https://github.com/AnshaalHussain/skincare-screener) that lets you easily filter products that fit your preferences!
 
 - Former Software Engineer Intern at [Augmentr](https://www.linkedin.com/company/augmentr/about/)👩🏻‍💻
 
@@ -13,9 +15,10 @@
 
 - How to reach me: **anshaalhussain@gmail.com** 📫
 
-- Likes: gaming, skincare, & cooking! Fun Fact: My signature dish is cheeseburger mac with broccoli 🥘🥦
+- Likes: skincare, art, gaming & cooking! 🧴🎨🕹🥣
 
-<img src="https://media.giphy.com/media/k5KWbLCtiUkRNK5bqN/giphy.gif" width="80">
+- Fun Fact: My signature dish is cheeseburger mac with broccoli 🥘🥦
+
 
 &nbsp;
 ## <img src="https://media.giphy.com/media/P7IMPyMQoEtytT3Y7k/giphy.gif" width="90">Skills:
@@ -44,10 +47,10 @@
 
 ## <img src="https://media.giphy.com/media/dAuGq9UkcumNj1KCHe/giphy.gif" width="80">Stats:
 
-<!-- [![Anshaals's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnshaalHussain&hide=stars,issues&show_icons=true&theme=aura_dark&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anshaals's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnshaalHussain&hide=stars,issues&show_icons=true&theme=aura_dark&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anshaalhussain" alt="anshaalhussain" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anshaalhussain" alt="anshaalhussain" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anshaalhussain&show_icons=true&locale=en&layout=compact" alt="anshaalhussain" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anshaalhussain&show_icons=true&locale=en&layout=compact" alt="anshaalhussain" /></p> -->
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anshaalhussain" alt="anshaalhussain" /></a> </p> -->
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anshaalhussain" alt="anshaalhussain" /></a> </p>
